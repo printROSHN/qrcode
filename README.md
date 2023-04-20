@@ -1,6 +1,6 @@
 # qrcode
 
-A qr code generator
+A simple and dynamic QR Code generator which generates QR code on the fly!
 
 ## Getting Started
 
